@@ -152,9 +152,10 @@ h3, h2 {
 
 .work img {
   width: 100%;
-  border: 0 none;
+  border: solid;
   opacity: 0.8;
   height:100px;
+
 }
 
 .work h3 {
@@ -165,10 +166,12 @@ h3, h2 {
   margin-bottom: 0;
   font-weight: 300;
   line-height: 30px;
-  color: #fff;
+  color: grey;
   text-align: center;
   background: blue;
   border-bottom: 0;
+  border: solid;
+
 }
 
 .auth-image {
